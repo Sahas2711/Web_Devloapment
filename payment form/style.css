@@ -1,0 +1,41 @@
+body{
+    background-image:url(image.jpg);
+    margin-right: 70%;
+    margin-left:30%;
+    width: 500px;
+}
+h1,h2{
+    color: white;
+    text-align: center;
+}
+button{
+    background-color: blue;
+    color:white;
+    margin:auto;
+    width: 25%;
+    text-align: center;
+    border-radius: 5%;
+}
+div{
+   background-color: rgba(13, 13, 48,2%);
+} 
+.form{
+    text-align: center;
+    margin: auto;
+    background-color: rgba(86, 131, 214,40%) 
+}
+.contact{
+    background-color: rgba(86, 131, 214,40%);
+    color: white;
+    text-align: center;
+
+}
+.payment{
+    background-color: rgba(25, 25, 231,60%);
+    color: white;
+    text-align: center;
+
+}
+hr{
+    color: rgb(11, 11, 16);
+}
